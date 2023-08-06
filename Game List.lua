@@ -2,7 +2,7 @@ getgenv().Games = {
     -- Arm Wrestle Simulator
     [13127800756] = "https://raw.githubusercontent.com/Gnoh11/Game-List/main/Arm%20Wrestle%20Simulator.lua",
     -- Anime Fighters Simulator
-    [6299805723] = "https://raw.githubusercontent.com/Gnoh11/Game-List/main/Anime%20Fighter%20Simulator.lua",
+    [6299805723] = "https://raw.githubusercontent.com/Gnoh11/Game-List/main/Anime%20Fighter%20Simulator.lua"
 
 
 }
