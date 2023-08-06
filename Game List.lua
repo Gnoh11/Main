@@ -26,7 +26,7 @@ getgenv().Games = {
     -- Car Dealership Tycoon
     [1554960397] = "https://raw.githubusercontent.com/Gnoh11/Game-List/main/Car%20Dealership%20Tycoon.lua",
     -- Car Factory Tycoon!
-    [11874473440] = "https://raw.githubusercontent.com/Gnoh11/Game-List/main/Car%20Factory%20Tycoon.lua",
+    [11874473440] = "https://raw.githubusercontent.com/Gnoh11/Game/main/Car%20Factory%20Tycoon.lua",
     -- Clicker Simulator
     [7560156054] = "https://raw.githubusercontent.com/Gnoh11/Game-List/main/Clicker%20Simulator.lua",
     -- Combat Warriors
@@ -77,12 +77,6 @@ getgenv().Games = {
 }
 
 getgenv().Unknown = {
-    -- Shinobi Life 2
-    "https://raw.githubusercontent.com/Gnoh11/Game-List/main/Shindo%20Life",
-    -- Pixel Piece
-    "https://raw.githubusercontent.com/Gnoh11/Game-List/main/Pixel%20Piece.lua",
     -- Pet Simulator X
-    "https://raw.githubusercontent.com/Gnoh11/Game-List/main/Pet%20Simulator%20X.lua",
-    -- Doors
-    "https://raw.githubusercontent.com/Gnoh11/Game-List/main/DOORS.lua",
+    "https://raw.githubusercontent.com/Gnoh11/Game/main/Pet%20Simulator%20X.lua",
 }
