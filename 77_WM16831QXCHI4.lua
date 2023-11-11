@@ -10,7 +10,7 @@ local SaveKey = true
 local Draggable = true -- Make Ui Draggable
 
 -- PANDA AUTH --
-local PandaAuth = loadstring(game:HttpGet('https://pandadevelopment.net/service_api/PandaAuthBeta2.lua'))()
+local PandaAuth = loadstring(game:HttpGet('https://pandadevelopment.net/service_api/PandaBetaLib.lua'))()
 local Notify = loadstring(game:HttpGet("https://raw.githubusercontent.com/x9PSwiftz/Panda/main/Notification.lua"))()
 
 -- SCRIPT --
